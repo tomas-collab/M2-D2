@@ -1,47 +1,10 @@
-/* EXERCISE 1
-            For every Album we'd like to have a consistent style.
-            Create a class for:
-            - The album container
-            - The album cover
-            - The album title
-            - The album group / singer / dj
-            - The album genre
-            - The album duration
-            - etc
-
-            to make sure you give every album the same consistent appearance.
-         */
-
-.bg-dark{
-    color: rgb(88, 86, 86);
-}
-.container{
-
+h1{
+    margin-top: 30;
+    margin-bottom: 30;
+    background-color: rgb(204, 198, 198);
 }
 
-.row{
-
+.image-tapestry{
+    width:100px;
 }
 
-.card{
-
-}
-.card-body{
-
-}
-.card-singer{
-
-}
-
-.btn {
-
-}
-
-.card-tapestry{
-    object-fit: none;
-    object-position: 10px;
-}
-
-.bg-secondary{
-    background-color: rgb(102, 100, 100);
-}
