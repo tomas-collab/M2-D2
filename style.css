@@ -11,3 +11,37 @@
 
             to make sure you give every album the same consistent appearance.
          */
+
+.bg-dark{
+    color: rgb(88, 86, 86);
+}
+.container{
+
+}
+
+.row{
+
+}
+
+.card{
+
+}
+.card-body{
+
+}
+.card-singer{
+
+}
+
+.btn {
+
+}
+
+.card-tapestry{
+    object-fit: none;
+    object-position: 10px;
+}
+
+.bg-secondary{
+    background-color: rgb(102, 100, 100);
+}
