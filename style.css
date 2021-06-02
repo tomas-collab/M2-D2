@@ -30,3 +30,6 @@ li {
 bg-dark {
   background-color: rgb(53, 52, 52);
 }
+bg-secondary {
+  margin-top: 40px;
+}
